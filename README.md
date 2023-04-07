@@ -35,6 +35,9 @@ Run project
 ```bash
   npm run dev
 ```
+## Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://pokedex-react-eta.vercel.app/)
 
 ## Authors
 
