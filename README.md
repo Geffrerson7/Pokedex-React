@@ -1,6 +1,6 @@
 # Pokedex-React
 
-App with typescript, React and Vite.
+Pokedex to search for Pokemon by ID or name and store the search in a database.
 
 ## Environment Variables
 
